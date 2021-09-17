@@ -1,4 +1,4 @@
-![OS Map & Hack, vitual hackathon](os-map-and-hack-logo.png)
+![OS Map & Hack, virtual hackathon](os-map-and-hack-logo.png)
 
 ## Purpose
 We are looking at the use of geospatial data and how this can be used as we move towards sustainable alternatives across multiple market sectors. Spatial data is key to unlocking insights that determine how we are literally shaping our world. As the pace of technological innovation quickens, implementing the infrastructure and driving interest is crucial to widespread adoption across the country at a national, organisational, and individual level.
@@ -16,13 +16,23 @@ To join our hackathon, we have specified that you must;
 ## Data
 For the challenges in the hackathon, we will be making use of the following data:
 
-|Data|URL|
+|Name|URL|
 |---|---|
 |OS Data Hub|https://osdatahub.os.uk/|
+|OS OpenData Downloads|https://osdatahub.os.uk/downloads/open|
 |National Chargepoint Registry (NCR)|https://www.gov.uk/guidance/find-and-use-data-on-public-electric-vehicle-chargepoints|
 |Office for Zero Emission Vehicles (OZEV) Statistics|https://www.gov.uk/government/collections/electric-vehicle-charging-infrastructure-statistics|
 
-## Additional data
+## Additional information
+To use the Data Hub APIs you will require a valid project key with an OS OpenData or Premium Plan.
+
+If you have not already done so, please [sign up to the Data Hub and acquire a project API key](https://osdatahub.os.uk/plans) (**our advice for the hackathon would be to use the Premium Plan**).
+
+The OS OpenData Plan is free to use for any purpose, including for services from which you make a profit.
+
+Our Premium Plan gives you access to our premium data, which is our most detailed mapping and geospatial feature data. You get up to £1,000 worth of data free every month with no obligation to input payment details.
+
+You can however get unlimited free Premium data for projects in development mode. Projects in development mode are not charged for accessing premium data, but are subjected to a 50 transactions-per-minute throttle. You can find out more about putting projects into development mode in the [Data Hub FAQs](https://osdatahub.os.uk/support/plans#developmentLiveModes).
 
 ## Challenges
 You/your team can focus on one challenge, or even all four of them if you're feeling particularly inventive. Whatever your choice, be sure to have a desire to build, collaborate, and innovate.
