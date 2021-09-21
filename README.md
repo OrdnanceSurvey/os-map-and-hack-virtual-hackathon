@@ -18,10 +18,52 @@ For the challenges in the hackathon, we will be making use of the following data
 
 |Name|URL|
 |---|---|
-|OS Data Hub|https://osdatahub.os.uk/|
+|OS Data Hub APIs|https://osdatahub.os.uk/docs|
 |OS OpenData Downloads|https://osdatahub.os.uk/downloads/open|
 |National Chargepoint Registry (NCR)|https://www.gov.uk/guidance/find-and-use-data-on-public-electric-vehicle-chargepoints|
 |Office for Zero Emission Vehicles (OZEV) Statistics|https://www.gov.uk/government/collections/electric-vehicle-charging-infrastructure-statistics|
+
+### OS Data Hub
+The OS Data Hub is the new platform for accessing our authoritative geospatial data. It provides easy access to OS data for the whole of GB via manual and automated downloads; or data APIs that integrate with user software.
+
+#### Data Hub APIs  
+OS provides APIs in three broad categories; maps, address data (search), and geographic features.
+
+|Resource|Documentation|
+|---|---|
+|OS Maps API|https://osdatahub.os.uk/docs/wmts/overview|
+|OS Vector Tile API|https://osdatahub.os.uk/docs/vts/overview|
+|OS Features API|https://osdatahub.os.uk/docs/wfs/overview|
+|OS Places API|https://osdatahub.os.uk/docs/places/overview|
+|OS Names API|https://osdatahub.os.uk/docs/names/overview|
+|OS Linked Identifiers API|https://osdatahub.os.uk/docs/linkedIdentifiers/overview|
+
+#### OS OpenData Downloads
+Free data for all use cases - maps, postcodes, place names, boundaries, roads, water and more.
+
+|Category|Links|
+|---|---|
+|Greenspaces|OS Open Greenspace: https://osdatahub.os.uk/downloads/open/OpenGreenspace|
+|Heights|OS Terrain 50: https://osdatahub.os.uk/downloads/open/Terrain50|
+|Identifiers|OS Open Linked Identifiers: https://osdatahub.os.uk/downloads/open/LIDS<br>OS Open TOID: https://osdatahub.os.uk/downloads/open/OpenTOID<br>OS Open UPRN: https://osdatahub.os.uk/downloads/open/OpenUPRN<br>OS Open USRN: https://osdatahub.os.uk/downloads/open/OpenUSRN|
+|Lookups|Boundary-Line: https://osdatahub.os.uk/downloads/open/BoundaryLine<br>Code-Point Open: https://osdatahub.os.uk/downloads/open/CodePointOpen<br>OS Open Names: https://osdatahub.os.uk/downloads/open/OpenNames|
+|Mapping|1:250 000 Scale Colour Raster: https://osdatahub.os.uk/downloads/open/250kScaleColourRaster<br>GB Overview Maps: https://osdatahub.os.uk/downloads/open/GBOverviewMaps<br>MiniScale: https://osdatahub.os.uk/downloads/open/MiniScale<br>OS OpenMap - Local: https://osdatahub.os.uk/downloads/open/OpenMapLocal<br>OS Open Zoomstack: https://osdatahub.os.uk/downloads/open/OpenZoomstack<br>Strategi: https://osdatahub.os.uk/downloads/open/Strategi<br>OS VectorMap District: https://osdatahub.os.uk/downloads/open/VectorMapDistrict|
+|Networks|OS Open Rivers: https://osdatahub.os.uk/downloads/open/OpenRivers<br>OS Open Roads: https://osdatahub.os.uk/downloads/open/OpenRoads|
+
+### National Chargepoint Registry (NCR)
+
+The NCR is a database of publicly-available chargepoints for electric vehicles in the UK established in 2011.
+
+#### Accessing data on  NCR
+The dataset is available in CSV, JSON or XML formats as a download using the links below or by using an API.
+
+|Format|Link|
+|---|---|
+|CSV|http://chargepoints.dft.gov.uk/api/retrieve/registry/format/csv|
+|XML|http://chargepoints.dft.gov.uk/api/retrieve/registry/format/xml|
+|JSON|http://chargepoints.dft.gov.uk/api/retrieve/registry/format/json|
+
+NCR Retrieve API: https://chargepoints.dft.gov.uk/api/help
 
 ## Additional information
 To use the Data Hub APIs you will require a valid project key with an OS OpenData or Premium Plan.
