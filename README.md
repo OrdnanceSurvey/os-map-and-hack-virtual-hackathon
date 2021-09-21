@@ -1,3 +1,6 @@
+# Welcome to StackEdit!
+
+
 ![OS Map & Hack, virtual hackathon](os-map-and-hack-logo.png)
 
 ## Purpose
@@ -9,9 +12,11 @@ Across four different challenges, ranging from supporting local governments to i
 
 ## Essentials
 To join our hackathon, we have specified that you must;
-- Bring your own laptop and charger.
-- Have the appropriate coding software installed.
--
+- Provide your own devices and internet access 
+- Have the appropriate coding software installed
+- A premium plan account on the OS Data Hub
+- Access to the OS Map & Hack Discord server 
+- Access to MS teams broadcasts for opening/closing ceremonies and judging
 
 ## Data
 For the challenges in the hackathon, we will be making use of the following data:
@@ -101,8 +106,15 @@ There will be multiple members of the OS team available to provide you with advi
 
 You can also find a variety of OS Data Hub (+ other API) resources [here](https://github.com/OrdnanceSurvey/os-api-resources).
 
+## Judging process
+
+All teams will be allocated a submission time slot on Thursday from 1600 in the first of 2 rounds of judging. Your time slot will be sent to your private Discord team channel during the second day, including a link to a MS teams broadcast. You will have 5 minutes to present to a team of 3 judges, including Q&As and any demo time.
+
+Once all submissions have been received by our judges, we will share via your private channel and our public announcement channel of the top six teams who have scored the highest. Those six teams will then go into a 2nd round from 1745, where they will have an additional five minutes to present the full judging panel.  **The 2nd round will broadcasted and accessible to all hackathon participants.**
+
+Winners will be announced in the closing ceremony. For more information on the judging criteria, this can be found in our hackathon FAQs.
+
 ## After the hack
-- During the conference following our hackathon, we have set aside a 15 minute section for talks. In this, you will have the opportunity to do a short 2-3 minute 'lightning talk' to our conference attendees.
-Please let us know if you are keen to do this as we would love to hear the interesting ways you have been tackling the challenges.
-- There will be opportunity for some participants to present back to the policy team. We will ask participants to let us know if they are interested in this during the hackathon's closing session.
--
+- Winners will be announced during the closing ceremony. Winners will then be contacted by OS directly for next steps, student winners will also be contacted directly. 
+- Opportunities for any teams/participants who are interested in OS writing and publishing technical blogs or user stories, on their behalf. 
+- If teams are interested, there will be opportunity for some participants to present back to the OS product management teams. 
