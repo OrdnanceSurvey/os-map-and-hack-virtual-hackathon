@@ -1,6 +1,3 @@
-# Welcome to StackEdit!
-
-
 ![OS Map & Hack, virtual hackathon](os-map-and-hack-logo.png)
 
 ## Purpose
