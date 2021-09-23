@@ -24,6 +24,7 @@ For the challenges in the hackathon, we will be making use of the following data
 |OS OpenData Downloads|https://osdatahub.os.uk/downloads/open|
 |National Chargepoint Registry (NCR)|https://www.gov.uk/guidance/find-and-use-data-on-public-electric-vehicle-chargepoints|
 |Office for Zero Emission Vehicles (OZEV) Statistics|https://www.gov.uk/government/collections/electric-vehicle-charging-infrastructure-statistics|
+|WattsUp UK Data|https://github.com/OrdnanceSurvey/os-map-and-hack-virtual-hackathon/blob/main/WattsUp%20UK%20Data.zip|
 
 ### OS Data Hub
 The OS Data Hub is the new platform for accessing our authoritative geospatial data. It provides easy access to OS data for the whole of GB via manual and automated downloads; or data APIs that integrate with user software.
@@ -66,6 +67,9 @@ The dataset is available in CSV, JSON or XML formats as a download using the lin
 |JSON|http://chargepoints.dft.gov.uk/api/retrieve/registry/format/json|
 
 NCR Retrieve API: https://chargepoints.dft.gov.uk/api/help
+
+### WattsUp UK Data
+The datafile contains locations for all public Rapid chargers in the UK.
 
 ## Additional information
 To use the Data Hub APIs you will require a valid project key with an OS OpenData or Premium Plan.
